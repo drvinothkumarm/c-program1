@@ -1,0 +1,19 @@
+Questions:
+1. This "Welcome to C!" can't be printed by a single statement?
+2. Is it necessary to start all c programs with #include <stdio.h>
+3. What is the symbol #
+4. What is stdio.h?
+5. Why int comes before main function?
+6. What is main funstion?
+7. Why the line with printf is ends withsemicolon and not the line with main.
+8. what is return 0?
+9. Why it is return 0?
+10. Why we need to type, if it simply return 0?
+11. Why " in welcome to C? Only ( and ) is not enough?
+12. why "printf" for printing statement? Why can't i use "print"?
+13. Why there is a linespace in between #include and next line and also printf line and return line?
+14. Where i can use semicolon and where i should not use?
+15. What is void?
+16. Can i get same output without using function? particularly main function?
+17. What is \n in printf statement? Can i give \n after " ?
+18.Why we use { and }
