@@ -1,10 +1,22 @@
 Questions:
 1. This "Welcome to C!" can't be printed by a single statement?
+No It can't be printed in single line. We need to print through some related rules and functions to print.
+
 2. Is it necessary to start all c programs with #include <stdio.h>
+Yes It is necessary.
+
 3. What is the symbol #
+It used to connect header file to the main function.
+
 4. What is stdio.h?
+Header file used to do operatrions related to input and output.
+
 5. Why int comes before main function?
+It is a return type. As per syntax we have to give return type of function.
+
 6. What is main funstion?
+   The program starts to compile from main function.
+   
 7. Why the line with printf is ends withsemicolon and not the line with main.
 8. what is return 0?
 9. Why it is return 0?
